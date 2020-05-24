@@ -1,6 +1,6 @@
 ---
-anchor: "About"
-header: "About"
+anchor: "Aboutu"
+header: "Aboutiu"
 subheader: "nidhi."
 timeline: [
   {
