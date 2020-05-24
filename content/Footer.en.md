@@ -1,12 +1,10 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © RACUMEN 2020"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  linkedin: "#",
 }
 privacyText: "Privacy Policy"
-privacyHref: "#!"
+privacyHref: "#http://cazzo.com"
 termsText: "Terms of Use"
 termsHref: "#!"
 ---
