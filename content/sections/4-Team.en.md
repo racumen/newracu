@@ -1,13 +1,13 @@
 ---
 anchor: "Team"
-header: "Our Amazing Team"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+header: "Our Team"
+subheader: "RACUMEN is a young company, this is our team:"
 content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garlandina",
-    subheader: "Stronza",
+    header: "Francesco Romano",
+    subheader: "CEO & Techinical Head",
     social: {
       twitter: "#",
       facebook: "#",
@@ -16,23 +16,14 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "Nidhi Dhakan",
+    subheader: "Data Scientist",
     social: {
       twitter: "#",
       facebook: "#",
       medium: "#"
     }
   },
-  {
-    imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
-    social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
-    }
-  },
+  
 ]
 ---
