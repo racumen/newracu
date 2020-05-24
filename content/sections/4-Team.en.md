@@ -9,8 +9,6 @@ teamMember: [
     header: "Francesco Romano",
     subheader: "CEO & Techinical Head",
     social: {
-      twitter: "#",
-      facebook: "#",
       linkedin: "#"
     }
   },
@@ -19,10 +17,8 @@ teamMember: [
     header: "Nidhi Dhakan",
     subheader: "Data Scientist",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
-    }
+      linkedin: "#",
+      }
   },
   
 ]
