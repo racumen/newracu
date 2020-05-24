@@ -1,8 +1,13 @@
 ---
 anchor: "Clients"
+
 header: "CLICAZZO"
 subheader: "Lorem ipsum dolor sit amet consectetur."
-clients: [
+clients: 
+
+anchor: "Clients"
+
+[
   {
     imageFileName: "logos/envato.jpg",
     href: "#!"

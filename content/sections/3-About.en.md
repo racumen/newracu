@@ -1,7 +1,7 @@
 ---
 anchor: "About"
 header: "About"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "nidhi."
 timeline: [
   {
     imageFileName: "about/1.jpg",
