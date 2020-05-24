@@ -6,8 +6,8 @@ content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, l
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "Kay Garlandina",
+    subheader: "Stronza",
     social: {
       twitter: "#",
       facebook: "#",
