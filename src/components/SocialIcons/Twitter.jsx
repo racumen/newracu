@@ -3,12 +3,12 @@ import PropTypes from "prop-types";
 
 import CircleIcon from "components/CircleIcon";
 
-const Twitter = ({ userName }) => (
-  <CircleIcon href={`https://twitter.com/${userName}`} iconName="TwitterIcon" />
+const Linkedin = ({ userName }) => (
+  <CircleIcon href={`https://linkedin.com/in/${userName}`} iconName="LinkedinIcon" />
 );
 
-Twitter.propTypes = {
+Linkedin.propTypes = {
   userName: PropTypes.string.isRequired,
 };
 
-export default Twitter;
+export default Linkedin;
